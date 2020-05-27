@@ -136,8 +136,8 @@
         addtext.style.wordSpacing = "0px";
         list.style.letterSpacing="0px";
         addtext.style.letterSpacing="0px";
-        list.style.fontWeight= "100";
-        addtext.style.fontWeight= "100";
+        list.style.fontWeight= "400";
+        addtext.style.fontWeight= "400";
         list.style.fontSize= "17px";
         addtext.style.fontSize="17px";
 
