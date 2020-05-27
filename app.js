@@ -124,6 +124,11 @@
         const body=document.getElementById("body");
         const addtext = document.getElementById("addtext");
         const nav=document.getElementById("nav");
+          
+
+        const todown = document.getElementById("to-down");
+
+          todown.style.display="none";
 
         
         nav.style.bottom="-40%";
