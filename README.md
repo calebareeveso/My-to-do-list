@@ -21,9 +21,9 @@ This web app takes designing of to-do list to the next level
 
 ## USAGE 
 
-* Open the web app and click on "add your todo list" to add to-do.
+* Open the web app and click on "add your todo list" to add your to-do list.
 
-* After adding your to-do click on the "+" button or Press Enter.
+* After adding your to-do list click on the "+" button or Press Enter.
 
 ## CONTRIBUTING 
 
