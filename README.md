@@ -2,7 +2,7 @@
 
 ## INSTALL
 
- * Click on the [download zip](https://github.com/caleb-007/My-to-do-list.git) button to get the zip file.
+ * Click on the [download zip](https://github.com/caleb-007/My-to-do-list/archive/master.zip) button to get the zip file.
 
                      **or**
 
